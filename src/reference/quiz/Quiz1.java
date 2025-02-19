@@ -11,7 +11,6 @@ public class Quiz1 {
 		Book book3 = new Book("ㄴ", 5000, "ㄷ", 70);
 		
 		Member member = new Member(1, "둘리", book1, book2, book3);
-		
 	}
 
 }
